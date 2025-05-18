@@ -1,8 +1,8 @@
-# PHMbench: 故障预测与健康管理基准测试生态系统
+# 🌟 PHMbench: 工业装备故障预测与健康管理社区
 
 <div align="center">
-  <img src="pic/PHMbench.png" alt="PHMbench Logo" width="300"/>
-  <p><strong>🔬 一个综合性的故障预测与健康管理基准测试生态系统 🔬</strong></p>
+  <img src="./pic/PHMbench.jpg" alt="PHMbench Logo" width="300"/>
+  <p><strong>🔬 汇聚智慧，共建PHM生态的开源社区 🔬</strong></p>
   <p><em>⚠️ 内测阶段 - 仅限邀请访问 ⚠️</em></p>
 
   <p>
@@ -12,81 +12,106 @@
   </p>
 </div>
 
+<div align="center">
+  <a href="./README.md">中文文档</a> | <a href="./README_en.md">English Document</a>
+</div>
+
 ## 📖 目录
-- [📋 项目概览](#-项目概览)
-- [🧩 生态系统组成](#-生态系统组成)
+- [📋 社区概览](#-社区概览)
+- [🧩 社区平台矩阵](#-社区平台矩阵)
 - [🔔 最新动态](#-最新动态)
 - [🚀 快速导航](#-快速导航)
+- [👥 加入我们](#-加入我们)
 - [📂 项目结构](#-项目结构)
 - [🏛️ 许可证](#️-许可证)
 - [📎 引用方式](#-引用方式)
 
-## 📋 项目概览
+## 📋 社区概览
 
-**PHMbench** 是一个全面的故障预测与健康管理(Prognostics and Health Management, PHM)基准测试生态系统，旨在为 PHM 领域的研究人员提供统一的评估环境。该生态系统通过一系列子基准平台（SubBench），涵盖了各种工业场景下的故障诊断、预测性维护和剩余使用寿命预测任务。
+**PHMbench** 是一个聚焦故障预测与健康管理(Prognostics and Health Management, PHM)领域的开源社区。我们致力于连接全球PHM研究者和工程师，共同构建标准化的基准测试生态系统。我们的愿景是通过社区协作，推动PHM技术的发展与应用。
 
-### 💡 核心理念
+### 💡 社区愿景与价值
 
-- 🔍 **标准化评估**：提供统一的数据处理流程、模型实现和评估指标
-- 🔄 **可复现研究**：确保实验设置、训练过程和结果分析的完全透明
-- ⚖️ **简化比较**：在相同条件下评估不同算法的性能
-- 🧱 **模块化设计**：便于扩展和应用到新的 PHM 场景
+- 🌐 **开放协作**：构建开放、活跃的PHM研究与应用社区
+- 🔍 **标准统一**：提供统一的评估标准和实验环境
+- 🔄 **加速研究**：通用pipeline助力快速设计模型和算法
+- 🧱 **资源聚合**：汇集高质量数据集、算法模型和工具
 
-<div align="center">
+<!-- <div align="center">
   <img src="pic/architecture.png" alt="PHMbench Architecture" width="700"/>
-  <p><em>PHMbench 生态系统架构</em></p>
-</div>
+  <p><em>PHMbench 社区生态系统架构</em></p>
+</div> -->
 
-## 🧩 生态系统组成
+## 🧩 社区平台矩阵
 
-PHMbench 生态系统由以下专业子基准平台组成：
+PHMbench社区目前开发和维护以下核心平台：
 
-| 子平台 | 描述 | 状态 |
+| 平台名称 | 描述 | 状态 |
 |--------|------|------|
-| [**Vbench**](./Vbench/) | 🏭 工业设备故障诊断与预测性维护基准平台 | 🔒 内测中 |
-| [**SLbench**](./SLbench/) | 🔄 系统级健康管理与剩余寿命预测基准平台 | 🛠️ 开发中 |
-| [**VLbench**](./VLbench/) | 👁️ 多模态故障诊断与可视化分析基准平台 | 🛠️ 开发中 |
-| [**Awesome-PHM-Paper-Agent**](./Awesome-PHM-Paper-Agent/) | 📚 PHM 领域文献检索与知识库 | 🛠️ 开发中 |
+| [**Vbench**](./Vbench/) | 🏭 工业设备振动信号故障诊断基准平台 | 🔒 内测中 |
+| [**Awesome-PHM-Paper-Agent**](./Awesome-PHM-Paper-Agent/) | 📚 PHM 领域文献智能检索与知识库 | 🛠️ 开发中 |
 
-每个子平台专注于 PHM 的不同方面，提供特定领域的数据集、模型和评估方法。
 
-<div align="center">
-  <img src="pic/bench_overview.png" alt="SubBench Overview" width="700"/>
-  <p><em>PHMbench 子平台功能概览</em></p>
-</div>
+每个平台专注于PHM领域的不同方面，共同构成完整的PHM技术生态。
 
 ## 🔔 最新动态
 
-- **2023.04**: 🔬 PHMbench 核心框架与 Vbench 子平台进入内测阶段
-- **2023.03**: 🔧 完成生态系统整体设计与子平台规划
-- **2023.02**: 🚀 项目启动并完成初步市场调研
+
+- **2025.04**: 🔬 PHMbench 社区成立，Vbench平台进入内测阶段
 
 ## 🚀 快速导航
 
-> ⚠️ **注意**: 当前项目处于内测阶段，仅向特定研究机构和合作伙伴开放。如需访问权限，请联系项目维护者。
+> ⚠️ **注意**: 当前项目处于内测阶段，仅向特定研究机构和合作伙伴开放。如需访问权限，请联系社区维护者。
 
-内测参与者可通过以下链接访问各子平台文档：
+内测参与者可通过以下链接访问各平台文档：
 
 - **Vbench** - [📚 文档](./Vbench/README.md) | [🏃‍♂️ 快速开始](./Vbench/doc/quickstart.md)
-- **SLbench** - [📚 文档](./SLbench/README.md) *(开发中)*
-- **VLbench** - [📚 文档](./VLbench/README.md) *(开发中)*
+
 - **Awesome-PHM-Paper-Agent** - [📚 文档](./Awesome-PHM-Paper-Agent/README.md) *(开发中)*
 
+
+
+## 👥 加入我们
+
+我们诚邀对PHM领域有兴趣的研究者和工程师加入社区！
+
+### 📢 内测讨论组
+
 <div align="center">
-  <img src="pic/workflow.png" alt="PHMbench Workflow" width="600"/>
-  <p><em>PHMbench 典型工作流程</em></p>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=d14nff5b-62b2-4857-a46b-1de87688ba72"><br>
+          <strong>飞书讨论组</strong><br>
+          <em>点击加入</em>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://join.slack.com/t/phmbench/shared_invite/zt-33zexd2px-uQWrrmN3pX4tSO0LtXeorA"><br>
+          <strong>Slack 频道</strong><br>
+          <em>点击加入</em>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+### 🤝 如何贡献
+
+- 🐞 提交Bug报告
+- 💡 提出新功能建议
+- 🧪 参与测试和代码审查
+- 📝 完善文档和教程
+- 🔧 贡献代码和模型
 
 ## 📂 项目结构
 
 ```bash
 📂 PHMbench
-├── 📄 README.md                 # 主项目说明文档
-├── 📂 Vbench                    # 🏭 工业设备故障诊断基准平台
-├── 📂 SLbench                   # 🔄 系统级健康管理基准平台
-├── 📂 VLbench                   # 👁️ 多模态故障诊断基准平台
+├── 📄 README.md                 # 社区主页说明文档
+├── 📂 Vbench                    # 🏭 工业设备振动信号监测平台
 ├── 📂 Awesome-PHM-Paper-Agent   # 📚 PHM 文献检索与知识库
-└── 📂 docs                      # 📋 通用文档
+└── 📂 docs                      # 📋 社区通用文档
 ```
 
 ## 🏛️ 许可证
@@ -99,7 +124,7 @@ PHMbench 生态系统由以下专业子基准平台组成：
 
 ```bibtex
 @misc{phmbench2023,
-  title={PHMbench: A Comprehensive Benchmark Ecosystem for Prognostics and Health Management},
+  title={PHMbench: A Comprehensive Community and Benchmark Ecosystem for Prognostics and Health Management},
   author={PHMbench Team},
   year={2023},
   howpublished={Internal Testing Version}
@@ -108,7 +133,6 @@ PHMbench 生态系统由以下专业子基准平台组成：
 
 <div align="center">
   <br>
-  <p>🌟 欢迎内测用户提供宝贵反馈! 🌟</p>
-  <img src="pic/contact_qrcode.png" alt="联系方式" width="150"/>
-  <p><em>扫描二维码加入内测讨论组</em></p>
+  <p>✨ 期待您的加入，共同推动 PHM 技术发展! ✨</p>
+  <p>🌐 <b>PHMbench</b> - <i>汇集智慧，共创未来</i> 🌐</p>
 </div>
