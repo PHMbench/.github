@@ -1,7 +1,7 @@
 # 🌟 PHMbench: 工业装备故障预测与健康管理社区
 
 <div align="center">
-  <img src="./pic/PHMbench.jpg" alt="PHMbench Logo" width="300"/>
+  <img src="../pic/PHMbench.jpg" alt="PHMbench Logo" width="300"/>
   <p><strong>🔬 汇聚智慧，共建PHM生态的开源社区 🔬</strong></p>
   <p><em>⚠️ 内测阶段 - 仅限邀请访问 ⚠️</em></p>
 
