@@ -65,7 +65,7 @@ PHMbench社区目前开发和维护以下核心平台：
 
 内测参与者可通过以下链接访问各平台文档：
 
-- **Vbench** - [📚 文档](./Vbench/README.md) | [🏃‍♂️ 快速开始](./Vbench/doc/quickstart.md)
+- **Vbench** - [📚 文档](https://github.com/PHMbench/Vbench/README.md) | [🏃‍♂️ 快速开始](https://github.com/PHMbench/Vbench/doc/quickstart.md)
 
 - **Awesome-PHM-Paper-Agent** - [📚 文档](./Awesome-PHM-Paper-Agent/README.md) *(开发中)*
 
