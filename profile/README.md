@@ -48,7 +48,7 @@ PHMbench社区目前开发和维护以下核心平台：
 
 | 平台名称 | 描述 | 状态 |
 |--------|------|------|
-| [**Vbench**](https://github.com/PHMbench/Vbench) | 🏭 工业设备振动信号故障诊断基准平台 | 🔒 内测中 |
+| [**PHM-Vibench**](https://github.com/PHMbench/PHM-Vibench) | 🏭 工业设备振动信号故障诊断基准平台 | 🔒 内测中 |
 | [**Awesome-PHM-Paper-Agent**](./Awesome-PHM-Paper-Agent/) | 📚 PHM 领域文献智能检索与知识库 | 🛠️ 开发中 |
 
 
