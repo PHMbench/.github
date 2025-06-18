@@ -104,6 +104,10 @@ PHMbench社区目前开发和维护以下核心平台：
 - 📝 完善文档和教程
 - 🔧 贡献代码和模型
 
+## swanlab
+
+[swanlab](https://swanlab.cn/@PHMbench)
+
 ## 📂 项目结构
 
 ```bash
